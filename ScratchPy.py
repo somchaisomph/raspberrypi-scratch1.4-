@@ -2,7 +2,7 @@ import socket
 import time
 from array import array
 import struct
-
+#reference to https://wiki.scratch.mit.edu/wiki/Communicating_to_Scratch_via_Python
 class ScratchError(Exception):
 	pass
 
